@@ -3,8 +3,8 @@
     "tagName":"app-seguros",
     "scripts" : [
         "runtime-es2015.3e21f71fd58866624380.js",
-        "main-es2015.7f1d5716c9aff69cf896.js",
         "polyfills-es2015.5728f680576ca47e99fe.js",
-        "scripts.9ddf727ecc94cd123172.js"
+        "scripts.9ddf727ecc94cd123172.js",
+        "main-es2015.7f1d5716c9aff69cf896.js"
     ]
 }
